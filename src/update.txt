@@ -5,10 +5,7 @@ version
 3
 version
 content
-1.更换App包名
-2.重做侧滑栏启用UI
-3.修复不能在线检测更新
-4.修复部分机型不能分享
+更新内容
 content
 link
 http://www.kb201602.com/app/Class2.apk
